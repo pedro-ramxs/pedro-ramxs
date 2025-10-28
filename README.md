@@ -1,6 +1,5 @@
 ### Olá!
-#### Meu nome é Pedro e sou estudante de `tecnologia`!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ramxs&layout=compact)](https://github.com/pedro-ramxs)
+
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
